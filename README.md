@@ -59,7 +59,7 @@ Meu foco é **PHP e JavaScript**: sites, landing pages, lojas virtuais e aplica�
 | Projeto | O que é | Stack |
 | :-- | :-- | :-- |
 | **[Sede · RPG 3D](https://github.com/pehtonetti/sede-rpg)** | RPG de ação 3D no navegador, instalável como app: 8 classes, árvore de habilidades, combate em tempo real, crafting, missões e ranking · [jogar](https://pehtonetti.github.io/sede-rpg/) | TypeScript · Three.js · Vite · PWA · Cloudflare Workers |
-| **[Simplify](https://github.com/pehtonetti/Simplify)** | Plataforma de e-commerce white-label multi-tenant: vitrine por subdomínio, CMS do lojista e painel admin | Next.js · TypeScript · Prisma · MySQL |
+| **Simplify** | Grande plataforma de vendas de produtos criada por mim como projeto integrador do SENAC, que evoluiu para uma plataforma completa de gestão de lojas, no modelo de Tray e Shopify *(código privado)* | Next.js · TypeScript · Prisma · MySQL |
 | **[Cadastro de Pessoas](https://github.com/pehtonetti/desafionexum)** | SPA com API REST, CRUD, busca avançada e integração ViaCEP | Vue 3 · Java · Spring Boot · MySQL |
 | **[Portfólio](https://github.com/pehtonetti/portifolio)** | Meu site pessoal · [ver online](https://pehtonetti.github.io/portifolio/) | React · Vite · Tailwind · Framer Motion |
 | **[Módulo Academia Dev](https://github.com/pehtonetti/Teste-index-parte2)** | Diagramação de página de curso com carrossel, sem frameworks | HTML · CSS · JavaScript |
@@ -72,7 +72,7 @@ Meu foco é **PHP e JavaScript**: sites, landing pages, lojas virtuais e aplica�
 Sites, landing pages e lojas virtuais em WordPress, Tray e PHP; SEO técnico e performance; administração dos servidores de hospedagem (cPanel/WHM, DNS, SSL, e-mail) e suporte aos clientes da agência.
 
 **2025 – 2026 · SENAC São Paulo** · Desenvolvedor Full Stack<br>
-Node.js, React, ORM e Vite. Projeto integrador: a plataforma de e-commerce [Simplify](https://github.com/pehtonetti/Simplify), integrada à API do Melhor Envio.
+Node.js, React, ORM e Vite. Projeto integrador: o Simplify, uma grande plataforma de vendas de produtos integrada à API do Melhor Envio, que depois evoluiu para uma plataforma completa de gestão de lojas, no modelo de Tray e Shopify.
 
 **2024 – 2025 · AELESAB** · Assistente de TI<br>
 Desenvolvimento do novo sistema da organização, site em WordPress, administração de redes, documentação e suporte aos usuários com Zendesk.
